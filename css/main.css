@@ -1,19 +1,18 @@
-custom_left_style {
+.custom_left_style {
 font-size: 1000px;
 background-color: black;
 }
 
 body {
-    background-image: url("https://abrakadabra.fun/uploads/posts/2022-03/1646950084_1-abrakadabra-fun-p-pikselnii-fon-mainkraft-1.png");
     background-size:calc(1000px);
+    background-color: rgb(46, 46, 46);
 }
+
 Div {
     margin-top: 20px;
     margin-left: 15px;
     background-color: rgb(31, 31, 31);
 }
-
-
 
 .test2 {
     font-size: large;
@@ -21,5 +20,9 @@ Div {
 
 .header_style {
     font-size: small;
-
 }
+
+.font_bar {
+    margin-left: 10px;
+}
+
